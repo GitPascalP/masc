@@ -1,0 +1,15 @@
+{
+    "warm_up": 20000,
+    "batch_size": 64,
+    "delay": 1,
+    "mue": 0,
+    "noise_decay": true,
+    "noise_start": 0.2,
+    "noise_end": 0.02,
+    "noise_decay_rate": 0.9947,
+    "tau": 0.005,
+    "gamma": 0.99,
+    "learning_rate": 0.0002,
+    "lr_decay": 1,
+    "lr_decay_step": 100
+}

@@ -1,0 +1,12 @@
+{
+    "noise_sigma": 0,
+    "normalize": false,
+    "reward_exponent": 1,
+    "reward_qoutient": 1500,
+    "reward_weights": [
+        2,
+        1
+    ],
+    "violation_penalty": -2,
+    "rew_type": "wse_reward"
+}
